@@ -15,7 +15,7 @@ for i in range(5):
 
     
     if hour %2:
-        print(hour,'нечетных часв',)
+        print(hour,'нечетных часов',)
         
     else:
         print(hour, 'четных часов')
